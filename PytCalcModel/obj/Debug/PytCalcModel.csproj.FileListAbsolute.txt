@@ -1,0 +1,61 @@
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\PytCalcModel.dll
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\PytCalcModel.pdb
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\obj\Debug\PytCalcModel.csproj.AssemblyReference.cache
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\obj\Debug\PytCalcModel.csproj.CoreCompileInputs.cache
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\obj\Debug\PytCalcModel.dll
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\obj\Debug\PytCalcModel.pdb
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\obj\Debug\PytCalcModel.csproj.AssemblyReference.cache
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\obj\Debug\PytCalcModel.csproj.CoreCompileInputs.cache
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\obj\Debug\PytCalcModel.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\obj\Debug\PytCalcModel.pdb
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\PytCalcModel.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\PytCalcModel.pdb
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\SpreadsheetLight.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\System.Drawing.Common.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\System.IO.Packaging.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\System.Security.AccessControl.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\System.Security.Permissions.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\System.Security.Principal.Windows.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\SpreadsheetLight.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\System.IO.Packaging.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\System.Security.AccessControl.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\System.Security.Permissions.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\System.Security.Principal.Windows.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\obj\Debug\PytCalcModel.csproj.CopyComplete
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\EmployeeDataBase.mdf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\EmployeeDataBase_log.ldf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\System.mdf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\System_log.ldf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcModel\bin\Debug\PytCalcModel.dll.config
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\EmployeeDataBase.mdf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\EmployeeDataBase_log.ldf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\System.mdf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\System_log.ldf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\config.ini
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\PytCalcModel.dll.config
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\PytCalcModel.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\PytCalcModel.pdb
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\SpreadsheetLight.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\System.Drawing.Common.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\System.IO.Packaging.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\System.Security.AccessControl.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\System.Security.Permissions.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\System.Security.Principal.Windows.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\SpreadsheetLight.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\System.IO.Packaging.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\System.Security.AccessControl.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\System.Security.Permissions.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\bin\Debug\System.Security.Principal.Windows.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\obj\Debug\PytCalcModel.csproj.AssemblyReference.cache
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\obj\Debug\PytCalcModel.csproj.CoreCompileInputs.cache
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\obj\Debug\PytCalcModel.csproj.CopyComplete
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\obj\Debug\PytCalcModel.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcModel\obj\Debug\PytCalcModel.pdb

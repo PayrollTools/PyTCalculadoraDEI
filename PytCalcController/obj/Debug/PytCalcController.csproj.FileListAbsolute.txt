@@ -1,0 +1,67 @@
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\PytCalcController.exe.config
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\PytCalcController.exe
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\PytCalcController.pdb
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\obj\Debug\PytCalcController.csproj.AssemblyReference.cache
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\obj\Debug\PytCalcController.csproj.SuggestedBindingRedirects.cache
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\obj\Debug\PytCalcController.csproj.CoreCompileInputs.cache
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\obj\Debug\PytCalcController.exe
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\obj\Debug\PytCalcController.pdb
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\PyTCalculoDedEspInc.exe
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\PyTCalculoDedEspInc.pdb
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\PyTCalculoDedEspInc.exe.config
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\obj\Debug\PytCalcController.csproj.CopyComplete
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\PytCalcModel.dll
+C:\Users\I0608892\Documents\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\PytCalcModel.pdb
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\PytCalcController.exe.config
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\PytCalcController.exe
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\PytCalcController.pdb
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\PytCalcModel.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\SpreadsheetLight.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\System.Drawing.Common.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\PytCalcModel.pdb
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\PyTCalculoDedEspInc.pdb
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\SpreadsheetLight.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\obj\Debug\PytCalcController.csproj.AssemblyReference.cache
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\obj\Debug\PytCalcController.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\obj\Debug\PytCalcController.csproj.CoreCompileInputs.cache
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\obj\Debug\PytCalcController.csproj.CopyComplete
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\obj\Debug\PytCalcController.exe
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\obj\Debug\PytCalcController.pdb
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\EmployeeDataBase.mdf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\EmployeeDataBase_log.ldf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\System.mdf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\System_log.ldf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\App.config
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\PytCalcModel.dll.config
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\PyTCalculoDedEspInc.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PytCalcController\bin\Debug\PyTCalculoDedEspInc.dll.config
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\EmployeeDataBase.mdf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\EmployeeDataBase_log.ldf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\System.mdf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\System_log.ldf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\config.ini
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\Documentation\Index.html
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\Documentation\style.css
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\App.config
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\PyT - Calculadora DEI.exe.config
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\PyT - Calculadora DEI.exe
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\PyT - Calculadora DEI.pdb
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\PytCalcModel.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\PyTCalculoDedEspInc.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\SpreadsheetLight.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\System.Drawing.Common.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\PytCalcModel.pdb
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\PytCalcModel.dll.config
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\PyTCalculoDedEspInc.pdb
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\PyTCalculoDedEspInc.dll.config
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\SpreadsheetLight.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\obj\Debug\PytCalcController.csproj.AssemblyReference.cache
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\obj\Debug\PytCalcController.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\obj\Debug\PytCalcController.csproj.CoreCompileInputs.cache
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\obj\Debug\PytCalcController.csproj.CopyComplete
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\obj\Debug\PyT - Calculadora DEI.exe
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PytCalcController\obj\Debug\PyT - Calculadora DEI.pdb

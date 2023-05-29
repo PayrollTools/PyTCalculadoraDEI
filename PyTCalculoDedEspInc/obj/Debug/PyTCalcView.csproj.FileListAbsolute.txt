@@ -1,0 +1,87 @@
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\bin\Debug\PyTCalculoDedEspInc.pdb
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalcView.csproj.AssemblyReference.cache
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Configuracion.ConfigOtrosEmp.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Configuracion.ConfigResoluciones.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Configuracion.InsertResolution.AgregarResolucion.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MainForm.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuImportar.ImportarSiradigExcel.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuVer.MenuesIndividuales.DivisorIndividual.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuVer.MenuesIndividuales.EmpleadoIndividual.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuVer.MenuesIndividuales.EmpleoIndividual.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuVer.MenuesIndividuales.FamiliarIndividual.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuVer.MenuesIndividuales.SalarioIndividual.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuVer.VerEmpleado.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Procesos.BorradoBBDD.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Procesos.DedEspInc.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Properties.Resources.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalcView.csproj.GenerateResource.cache
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalcView.csproj.CoreCompileInputs.cache
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.pdb
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Resources.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuImportar.ImportarExcel.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\bin\Debug\EmployeeDataBase.mdf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\bin\Debug\EmployeeDataBase_log.ldf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\bin\Debug\PytCalcModel.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\bin\Debug\SpreadsheetLight.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\bin\Debug\System.Drawing.Common.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\bin\Debug\PytCalcModel.pdb
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\bin\Debug\SpreadsheetLight.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalcView.csproj.CopyComplete
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\bin\Debug\System.mdf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\bin\Debug\System_log.ldf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\bin\Debug\App.config
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\bin\Debug\PytCalcModel.dll.config
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuVer.VerTablas.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\bin\Debug\PyTCalculoDedEspInc.dll.config
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\bin\Debug\PyTCalculoDedEspInc.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\EmployeeDataBase.mdf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\EmployeeDataBase_log.ldf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\System.mdf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\System_log.ldf
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\config.ini
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\Documentation\Index.html
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\Documentation\style.css
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\App.config
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\PyTCalculoDedEspInc.dll.config
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\PyTCalculoDedEspInc.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\PyTCalculoDedEspInc.pdb
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\PytCalcModel.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\SpreadsheetLight.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\System.Drawing.Common.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\PytCalcModel.pdb
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\PytCalcModel.dll.config
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\SpreadsheetLight.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalcView.csproj.AssemblyReference.cache
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Ayuda.MenuAyuda.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Configuracion.ConfigOtrosEmp.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Configuracion.ConfigResoluciones.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Configuracion.DeduccionesPersonales.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Configuracion.DirectorioSalida.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Configuracion.InsertResolution.AgregarResolucion.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Configuracion.MenuResoluciones.VerRangos.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MainForm.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuImportar.ImportarExcel.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuImportar.ImportarSiradigExcel.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuVer.MenuesIndividuales.DivisorIndividual.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuVer.MenuesIndividuales.EmpleadoIndividual.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuVer.MenuesIndividuales.EmpleoIndividual.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuVer.MenuesIndividuales.FamiliarIndividual.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuVer.MenuesIndividuales.SalarioIndividual.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuVer.ResultadosLiquidacion.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuVer.VerEmpleado.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.MenuVer.VerTablas.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Procesos.BorradoBBDD.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Procesos.DedEspInc.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Procesos.ExportarResultados.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Properties.Resources.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.Resources.resources
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalcView.csproj.GenerateResource.cache
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalcView.csproj.CoreCompileInputs.cache
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalcView.csproj.CopyComplete
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.dll
+C:\Proyectos\Ganancias - Liquidación primer y segundo párrafo\version_2 [C#]\PyTCalculoDedEspInc\obj\Debug\PyTCalculoDedEspInc.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PytCalcController", "PytCalcController.csproj", "{E36E03F0-1723-4911-8F2C-7DBF8F4EA659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PyTCalcView", "..\PyTCalculoDedEspInc\PyTCalcView.csproj", "{F420C190-2F84-45B5-9180-C21867820178}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PytCalcModel", "..\PytCalcModel\PytCalcModel.csproj", "{C721045B-A037-4630-9FB0-9B14CCE6CAB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E36E03F0-1723-4911-8F2C-7DBF8F4EA659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36E03F0-1723-4911-8F2C-7DBF8F4EA659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36E03F0-1723-4911-8F2C-7DBF8F4EA659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36E03F0-1723-4911-8F2C-7DBF8F4EA659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F420C190-2F84-45B5-9180-C21867820178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F420C190-2F84-45B5-9180-C21867820178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F420C190-2F84-45B5-9180-C21867820178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F420C190-2F84-45B5-9180-C21867820178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C721045B-A037-4630-9FB0-9B14CCE6CAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C721045B-A037-4630-9FB0-9B14CCE6CAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C721045B-A037-4630-9FB0-9B14CCE6CAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C721045B-A037-4630-9FB0-9B14CCE6CAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC2B6A34-2BA2-4C9D-9365-65D1541A3B5E}
+	EndGlobalSection
+EndGlobal
