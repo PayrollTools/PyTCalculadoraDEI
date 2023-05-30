@@ -131,10 +131,3 @@ Los resultados, además de visualizarse en la aplicación, pueden ser exportados
 El proceso completo de liquidación se puede observar en la siguiente serie de videos:
 
 https://www.youtube.com/watch?v=EcQyQb8X478&list=PLbSUhAT1xP78N0FxEnUQRcW4HA4ix81_d
-
-## Detalle técnico.
-El programa fue realizado en .net, utilizando el lenguaje C# y Windows Forms. 
-
-Para el diseño, se utilizó el patrón MVC. Para esto, se generaron tres capas, en distintos proyectos. Para mantener un orden lógico y, a su vez, que el mantenimiento del programa sea más sencillo.
-
-La base de datos fue generada en SQL Server. En el cual se crearon las tablas necesarias como el armado de distintos procedimientos almacenados.
